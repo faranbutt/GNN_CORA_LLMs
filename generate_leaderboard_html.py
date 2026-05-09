@@ -44,7 +44,7 @@ html_content = """
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>GNN CoRA Competition Leaderboard</title>
+<title>GNN CoRA LLMs Competition Leaderboard</title>
 <style>
 html, body {
     height: 100%;
@@ -90,7 +90,7 @@ td:first-child { font-weight: bold; font-size: 18px; }
 </style>
 </head>
 <body>
-<h1>🏆 GNN CoRA Competition Leaderboard</h1>
+<h1>🏆 GNN CoRA LLMs Competition Leaderboard</h1>
 <table>
 <thead>
 <tr><th>Rank</th><th>Team</th><th>Accuracy</th></tr>
